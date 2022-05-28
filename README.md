@@ -1,6 +1,8 @@
-# 一 forum-java
+# 一 部署效果
 
-spring boot框架开发的社区：https://www.developers.pub
+- 开源版地址：http://42.51.0.222:8080/
+- 商业版地址：https://www.developers.pub
+- 设计与实现相关文档：https://www.developers.pub/wiki/1050441
 
 # 二 简介
 
@@ -9,13 +11,13 @@ spring boot框架开发的社区：https://www.developers.pub
 - 面向内容讨论的论坛；
 - 面向知识问答的社区；
 - 100% 开源；
+- 欢迎到 [开发者客栈](https://www.developers.pub/) 官方讨论区了解更多。同时也欢迎关注官方公众号 智猿其说（下图）；
 
-
-欢迎到 [开发者客栈](https://www.developers.pub/) 官方讨论区了解更多。同时也欢迎关注 开发者客栈 开源社区微信公众号 智猿其说：
-
- 
 ![image.png](https://static.developers.pub/d6d7135e5dfe4af2b1e7067fe57ac836)
- 
+
+- 感谢 破冰安全实验室 帮忙做的项目安全漏洞扫描，保障这个项目的每个用户可以放心大胆的使用，关注 破冰安全实验室 公众号了解更多安全知识（下图）；
+
+![破冰安全实验室](https://static.developers.pub/292955c12fca41528a329ca24daf9cc4)
 
 # 三 为什么要做这个项目？
 
@@ -26,7 +28,7 @@ spring boot框架开发的社区：https://www.developers.pub
 - 现有的开源社区缺乏实际运营需求的功能，管理功能过于简单，二开成本过高；
 
 
-# 四 功能列表
+# 四 开源版功能列表
 
 ```$xslt
 
@@ -236,12 +238,8 @@ spring boot框架开发的社区：https://www.developers.pub
 
 # 九 安装
 
-请参考 [forum-java安装指南](https://www.developers.pub/article/171)。
+请参考 [forum-java安装指南](https://www.developers.pub/article/1005736)。
 
+# 使用说明
 
-# 十 授权
-
-- 社区版：使用 AGPL 开源，如果你选择使用社区版，则必须完全遵守 AGPL 的相关条款；公司使用必须购买商用授权；
-- 商业版：提供完整源码以便二开，报价 ¥16000，[详情](https://www.developers.pub/article/264) ；
-
-**企业网站、经营性网站、以营利为目的或实现盈利的网站请购买商业版。**
+**社区版只允许个人使用。商业用途请联系作者购买。**
